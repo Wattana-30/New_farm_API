@@ -1,0 +1,44 @@
+AnyDesk Passwd
+kucsc12345678
+
+PC
+1. Start EMQX MQTT
+	- C:\Users\NJ\Desktop\com\emqx\bin 
+	- emqx start
+2. Start Apache and MySQL
+	- Xampp
+3. Start Server
+	- C:\Users\NJ\Desktop\com\farm-API
+	- python main.py
+4. Start Web
+	- C:\Users\NJ\Desktop\com\Nuxt-Dashboard-Farm
+	- npm run build
+	- npm run start
+5. Start Stream Farm
+	- C:\Users\NJ\Desktop\com\code_farm\process
+	- python stream_camera.py
+
+Pi 3 - 1
+	- Stream Camera
+	- Display Dashboard
+Pi 3 - 2
+	- Stream Camera
+
+go to web farm
+C:\Users\NJ\Desktop\com\web_farm
+
+Dashboard
+  open Nuxt-Dashboard-Farm - Copy - Copy
+
+
+
+
+
+
+
+
+
+
+
+
+
